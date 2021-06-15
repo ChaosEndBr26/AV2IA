@@ -1,3 +1,7 @@
+#Feito por :
+#BRENO PIMENTEL DE OLIVEIRA - 201751190481
+#MATHEUS SÁ BARRETO MACIEL - 201951196988
+
 import random
 import mysql.connector
 
@@ -102,3 +106,4 @@ def run():
 
 if __name__ == 'ATV IA':
     run()
+
